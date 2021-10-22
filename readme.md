@@ -1,3 +1,3 @@
 ## History of the Internet
 
-[layoutf-z.eastus.azurecontainer.io](click)
+[link](layoutf-z.eastus.azurecontainer.io)
