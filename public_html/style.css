@@ -8,6 +8,10 @@
 
 }
 
+img{
+    display:inline;
+}
+
 li{
     display: inline;
 }
@@ -37,6 +41,7 @@ body{
 
 img{
     max-width: 100%;
+    display: inline;
 }
 
 .wrapper {
@@ -82,7 +87,7 @@ img{
 /* Showcase */
 .showcase {
     grid-area:showcase;
-    min-height: 100px;
+    min-height: 50px;
     background-size: cover;
     padding: 3rem;
     display: flex;
@@ -111,7 +116,7 @@ img{
     align-items: center;
     justify-items: center;
     box-shadow: var(--dark);
-    padding: 1.5rem
+    padding: 1rem
 }
 
 .top-box .price {
@@ -195,6 +200,7 @@ footer {
         display: block;
         text-align: center;
         margin: auto;
+        padding: 100px;
     }
 }
 
